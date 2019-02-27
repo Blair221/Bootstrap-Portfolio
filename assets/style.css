@@ -11,6 +11,19 @@ body {
 #main-section {
     margin-bottom: 2rem;
 }
+.quirk h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 92.5%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+}
 h1 {
     background-color: #4aa;
     color: white;
@@ -35,4 +48,7 @@ footer {
     background: #666666;
     border-top: 8px solid #4aaaa5;
     height: 50px;
+  }
+  .card-img-top {
+      margin-bottom: 2rem;
   }
