@@ -1,0 +1,38 @@
+body {
+    background-color: grey;
+}
+.nav-link {
+    float: left;
+    padding-bottom: 10px;
+}
+#navheader{
+    margin-bottom: 2rem;
+}
+#main-section {
+    margin-bottom: 2rem;
+}
+h1 {
+    background-color: #4aa;
+    color: white;
+}
+h2 {
+    color: #4aa;
+}
+#main-section {
+    clear: both;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+  }
