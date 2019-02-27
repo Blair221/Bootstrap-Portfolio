@@ -33,6 +33,7 @@ h2 {
 }
 #main-section {
     clear: both;
+    margin-bottom: 2rem;
 }
 footer {
     position: fixed;
