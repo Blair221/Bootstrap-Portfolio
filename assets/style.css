@@ -53,3 +53,9 @@ footer {
   .card-img-top {
       margin-bottom: 2rem;
   }
+  .submit {
+      margin-bottom: 10rem;
+  }
+  .adjust {
+      width: 960px;
+  }
